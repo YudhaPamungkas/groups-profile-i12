@@ -1,1 +1,1 @@
-# company-profile-i12
+# groups-profile-i12
